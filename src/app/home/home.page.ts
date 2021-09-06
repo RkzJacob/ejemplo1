@@ -8,5 +8,9 @@ import { Component } from '@angular/core';
 export class HomePage {
 
   constructor() {}
+  saludar(){
+    //llamar a un toast que entregue un mensaje
+
+  }
 
 }
