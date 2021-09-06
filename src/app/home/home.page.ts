@@ -9,7 +9,7 @@ export class HomePage {
 
   constructor() {}
   saludar(){
-    //llamar a un toast que entregue un mensaje
+    //llamar a un toast que entregue un mensaje xdlocura
 
   }
 
